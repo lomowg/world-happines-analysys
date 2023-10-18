@@ -13,6 +13,7 @@
 * Seaborn
 * Scipy
 * Scikit-learn
+* Statsmodel
 
 
-**Анализ находится в файле World_happines_1.ipynb**
+**Анализ находится в файле World_happines_1.html**
