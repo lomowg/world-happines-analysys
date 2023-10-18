@@ -16,4 +16,4 @@
 * Statsmodel
 
 
-**Анализ находится в файле World_happines_1.html**
+**Анализ находится в файле World_happines_1.ipynb**
